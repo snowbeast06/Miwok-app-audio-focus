@@ -27,4 +27,12 @@
 
     <!-- Category name for the vocabulary words for family members [CHAR LIMIT=20] -->
     <string name="category_family">Family Members</string>
+
+    <string name="colors_page_title">Colors</string>
+    <string name="numbers_page_title">Numbers</string>
+    <string name="family_page_title">Family</string>
+    <string name="phrases_page_title">Phrases</string>
+
+
+
 </resources>
